@@ -83,6 +83,9 @@
       "@vue/standard",
       "airbnb-base"
     ],
+    "resolutions": {
+"@achrinza/node-ipc": "10.1.9"
+},
     "rules": {
       "import/no-unresolved": "off",
       "import/extensions": "off",
